@@ -48,3 +48,10 @@ layout: default
 - 网络高峰时段（晚6–9点）可能变慢，避开这时下载大文件。  
 - 本地人爱用WhatsApp，装好它再出发。  
 　　总之，选卡别贪便宜，覆盖和流量平衡就好。2025年了，摩尔多瓦移动生态进步大，但保持灵活——旅行嘛，总有意外惊喜！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Moldova eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/moldova-data-plans)
